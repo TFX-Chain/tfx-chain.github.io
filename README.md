@@ -3,7 +3,7 @@ Here is the frontend engineering for the DAPP staking contract, and GitHub is th
 # How to Visit dapp
 ### you can visit 
   - tfx-chain.github.io (Global node)
-  - dapp.ftxchain.com (North American node)
+  - dapp.tfxchain.com (North American node)
   - dapp.tfxchain.pw(Asian node)
 ### It will allocate the nearest nodes to you based on your location.
 # This is our only mining contract address
